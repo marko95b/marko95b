@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marko Babić</h1>
+<h1 align="center">Hi 👋, I'm Marko </h1>
 <h3 align="center">A passionate QA Engineer from Belgrade, Serbia</h3>
 
 - 🔭 I’m currently working on Smart Home Testing, Digital Health App QA. [Owl Home, Vantis Health](https://owlhome.com https://vantishealth.com)
